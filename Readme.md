@@ -73,5 +73,8 @@ Our vision is to democratize token distribution by creating a trustless, transpa
 ## Contract Address
 ```
 Contract Address: [STVKYFYESZ39QVH7DJMGND3XJH6C01APT86CBZ.rental.nft]
-![stacks](https://github.com/user-attachments/assets/64130962-0424-4e31-b9e6-4fa85ef61a51)
+
+## Screenshot
+![stacks](https://github.com/user-attachments/assets/c92fc68f-9d7a-4745-a3b6-88e69f63952d)
+
 
