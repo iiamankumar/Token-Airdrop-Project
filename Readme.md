@@ -70,11 +70,12 @@ Our vision is to democratize token distribution by creating a trustless, transpa
 - Claim status tracking to prevent double-spending
 - Input validation for all parameters
 
-![stacks](https://github.com/user-attachments/assets/754cd1f7-b211-416b-8649-09bb12618b00)
+
 
 ## Contract Address
-```
 Contract Address: [STVKYFYESZ39QVH7DJMGND3XJH6C01APT86CBZ.rental.nft]
+
+![stacks](https://github.com/user-attachments/assets/754cd1f7-b211-416b-8649-09bb12618b00)
 
 
 
